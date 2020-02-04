@@ -2,6 +2,7 @@
 基于python django框架的访客登记签到功能
 
 环境安装部署步骤
+
 1、安装python软件，推荐python3版本，python下载的路径如下。当前20200204 python3最新版本为3.9.0
 https://npm.taobao.org/mirrors/python/3.9.0/
 
